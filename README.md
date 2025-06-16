@@ -1,16 +1,21 @@
-## Hi there 👋
++1
+Lines changed: 1 addition & 0 deletions
 
-<!--
-**JulianSotelo06/JulianSotelo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Original file line number	Diff line number	Diff line change
+@@ -1,24 +1,25 @@
+# Hola, soy Julián Sotelo 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+
+
+Busco seguir creciendo y desarrollándome como Tester. 
+
+## 🛠️ Habilidades
+- **Testing Manual:** .
+- **Análisis y diseño de pruebas:** .
+- **Pruebas de API:** Postman.
+- **Bases de Datos:** SQL.
+- **Documentación de pruebas:** 
+
+## 📈 Proyectos Destacados
