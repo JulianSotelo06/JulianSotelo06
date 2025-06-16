@@ -1,9 +1,4 @@
-+1
-Lines changed: 1 addition & 0 deletions
 
-
-Original file line number	Diff line number	Diff line change
-@@ -1,24 +1,25 @@
 # Hola, soy Julián Sotelo 👋
 
 ## 👨‍💻 Sobre mí
