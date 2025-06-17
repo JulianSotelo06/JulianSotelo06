@@ -7,11 +7,12 @@
 Busco seguir creciendo y desarrollándome como Tester. 
 
 ## 🛠️ Habilidades
-- **Testing Manual:** .
-- **Análisis y diseño de pruebas:** .
-- **Pruebas de API:** Postman.
+- **Testing Manual:** Pruebas de regresión, Prueba de humo.
+- **Análisis y diseño de pruebas:** Análisis de requisitos, clases de equivalencia, Valores límite.
+- **Pruebas de API:** Postman, JSON, HTTP.
+- **Pruebas de Aplicaciones Móviles:** Android Studio.
 - **Bases de Datos:** SQL.
-- **Documentación de pruebas:** 
+- **Seguimiento de errores:** JIRA, Informes de errores.
 
 ## 📈 Proyectos Destacados
  **Funcionalidad de Aplicación de Movilidad**:
