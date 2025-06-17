@@ -17,6 +17,4 @@ Busco seguir creciendo y desarrollándome como Tester.
 - **Funcionalidad de Aplicación de Movilidad**: 
 - **Pruebas API Aplicación de Servicio de Domicilios**:
 - **Pruebas de aplicaciones móviles**: 
-git add Sprint3.pdf
-git commit -m "Agregando documento"
-git push origin main
+
