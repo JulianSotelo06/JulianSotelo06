@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ingeniero Mecánico** con más de 9 años de experiencia en gestión de equipos y procesos técnicos. Actualmente, estoy realizando **Bootcamp de QA Engineer**, enfocándome en pruebas manuales y automatizadas para fortalecer mi perfil en el sector tecnológico.
+Soy **Ingeniero Mecánico** con más de 9 años de experiencia en gestión de equipos y procesos técnicos. Actualmente estoy realizando un **Bootcamp de QA Engineer**, enfocándome en pruebas manuales y automatizadas para fortalecer mi perfil en el sector tecnológico.
 
 ## 🚀 ¿Por qué QA?
 
