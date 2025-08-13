@@ -37,4 +37,4 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado, incluye
  * 🔍[Diseño de Pruebas](https://docs.google.com/spreadsheets/d/1-ZH5x-bvhy-EiYQKTh6NnkYr2VRhj86G/edit?usp=drive_link&ouid=108366260182891958648&rtpof=true&sd=true)
  * 📊[Informe de Errores](https://drive.google.com/file/d/1pS92i4BrNt4y3M9WI_Q_4Q2HdjUPzV7U/view?usp=drive_link)
 
-**Automatización de pruebas con Seleniu - App Alquiler de Autos (https://github.com/JulianSotelo06/Proyecto-Automatizacion-de-pruebas-Selenium-App-Alquiler-de-Autos.git)**:
+**[Automatización de pruebas con Selenium - App Alquiler de Autos] (https://github.com/JulianSotelo06/Proyecto-Automatizacion-de-pruebas-Selenium-App-Alquiler-de-Autos.git)**:
