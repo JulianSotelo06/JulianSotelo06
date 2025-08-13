@@ -3,7 +3,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ingeniero Mecánico** con más de 9 años de experiencia en gestión de equipos y procesos técnicos. Actualmente estoy realizando un **Bootcamp de QA Engineer**, enfocándome en pruebas manuales y automatizadas para fortalecer mi perfil en el sector tecnológico.
+Soy **Ingeniero Mecánico** con más de 9 años de experiencia en gestión de equipos y procesos técnicos. Recientemente complete un  **Bootcamp de QA Engineer**, enfocándome en pruebas manuales y automatizadas para fortalecer mi perfil en el sector tecnológico.
 
 ## 🚀 ¿Por qué QA?
 
@@ -12,6 +12,7 @@ Mi trayectoria en ingeniería me ha dado una visión analítica y estructurada, 
 ## 🛠️ Habilidades
 
 - **Testing Manual:** Pruebas de regresión, Prueba de humo.
+- **Pruebas automatizadas:** Selenium, Python.
 - **Análisis y diseño de pruebas:** Análisis de requisitos, clases de equivalencia, Valores límite.
 - **Pruebas de API:** Postman, JSON, HTTP.
 - **Pruebas de Aplicaciones Móviles:** Android Studio.
