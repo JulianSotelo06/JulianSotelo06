@@ -23,7 +23,7 @@ Mi trayectoria en ingeniería me ha dado una visión analítica y estructurada, 
 
 ## 📝 Proyectos de QA Testing
 
-Aquí puedes encontrar algunos de los proyectos en los que he trabajado, incluyendo **diseño de pruebas** y **reportes de errores**
+Aquí puedes encontrar algunos de los proyectos en los que he trabajado, incluyendo **diseño de pruebas (manuales y automatizadas)** y **reportes de errores**
 
  **Funcionalidad de Aplicación de Movilidad**:
  * 🔍[Diseño de Pruebas](https://docs.google.com/spreadsheets/d/1A6enqOCwikmlw718bljWba2zT_1boqS_/edit?usp=drive_link&ouid=108366260182891958648&rtpof=true&sd=true)
