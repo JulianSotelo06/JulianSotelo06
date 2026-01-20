@@ -47,4 +47,4 @@ Aquí puedes encontrar algunos de los proyectos en los que he trabajado, incluye
 
 **[Automatización de pruebas con Selenium - Proceso de compra E-Commerce (SauceDemo)](https://github.com/JulianSotelo06/Automatizacion_Pruebas_Web_ECommerce)**
 
-**[Automatización de pruebas - Interacción con filtros y tablas)](https://github.com/JulianSotelo06/Automation-Practice-Table)**
+**[Automatización de pruebas - Interacción con filtros y tablas](https://github.com/JulianSotelo06/Automation-Practice-Table)**
